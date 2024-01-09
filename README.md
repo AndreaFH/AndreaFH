@@ -3,7 +3,7 @@
 <h2 align="center">Development Student & Technician in Systems Administration</h2>
 <p>I am <span ><a href="https://github.com/AndreaFH">Andrea Fernandez</a><span>, a development student and current senior technician in systems administration from Spain. I really like the development and design of web applications with the best tools and good practices.</p>
 
-<h4>These are the programming languages ​​that I am learning (or I already know 🤠)...</h4>
+<h4>These are the languages ​​and tools that I am learning (or I already know 🤠)...</h4>
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
