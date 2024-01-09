@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
 </p>
 
 <p>(I only have private repositories, for now... 😉)</p>
