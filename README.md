@@ -1,6 +1,30 @@
-### Hi there, I'm Andrea👋
-
 ![me](https://raw.githubusercontent.com/AndreaFH/AndreaFH/main/img/front.png)
+
+<h2 align="center">Development Student & Technician in Systems Administration</h2>
+<p>I am <span ><a href="https://github.com/AndreaFH">Andrea Fernandez</a><span>, a development student and current senior technician in systems administration from Spain. I really like the development and design of web applications with the best tools and good practices.</p>
+
+<h4>These are the programming languages ​​that I am learning (or I already know 🤠)...</h4>
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
+</p>
+
+
+
 <!--
 **AndreaFH/AndreaFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
