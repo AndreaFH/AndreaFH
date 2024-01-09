@@ -1,5 +1,6 @@
 ### Hi there, I'm Andrea👋
 
+![me](https://raw.githubusercontent.com/AndreaFH/AndreaFH/main/img/front.png)
 <!--
 **AndreaFH/AndreaFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
