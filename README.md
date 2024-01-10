@@ -1,4 +1,4 @@
-![me](https://raw.githubusercontent.com/AndreaFH/AndreaFH/main/img/front.png)
+![me](https://raw.githubusercontent.com/AndreaFH/AndreaFH/main/gif/front.gif)
 
 <h2 align="center">Development Student & Technician in Systems Administration</h2>
 <p>I am <span ><a href="https://github.com/AndreaFH">Andrea Fernandez</a><span>, a development student and current senior technician in systems administration from Spain. I really like the development and design of web applications with the best tools and good practices.</p>
@@ -26,9 +26,11 @@
 
 <p>(I only have private repositories, for now... 😉)</p>
 
+
+
 <!--
 **AndreaFH/AndreaFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![me](https://raw.githubusercontent.com/AndreaFH/AndreaFH/main/img/front.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
