@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm a junior frontend developer with a background in systems administration. I absolutely love coding and am always tinkering with new projects to keep learning and improving. 🚀<br><br>Right now, I’m diving deep into frontend magic, experimenting with new technologies, and having fun building cool stuff! But I’m also curious about the backend world and eager to expand my skills beyond the UI. 🔥</p>
+<p align="center">I'm a junior frontend developer with a background in systems administration. I absolutely love coding and am always tinkering with new projects to keep learning and improving. 🚀<br><br>Right now, I’m diving deep into frontend magic, experimenting with new technologies, and having fun building cool stuff! But I’m also curious about the backend world and eager to expand my skills beyond the UI. 🔥</p>
 
 ###
 
@@ -30,7 +30,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AndreaFH/AndreaFH/main/gif/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AndreaFH/AndreaFH/main/gif/snake.svg" alt="Snake animation"/>
+</div>
 
 ###
 
