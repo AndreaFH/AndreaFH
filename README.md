@@ -1,30 +1,38 @@
 ![me](https://raw.githubusercontent.com/AndreaFH/AndreaFH/main/gif/front.gif)
 
-<h2 align="center">Development Student & Technician in Systems Administration</h2>
-<p>I am <span ><a href="https://github.com/AndreaFH">Andrea Fernandez</a><span>, a development student and current senior technician in systems administration from Spain. I really like the development and design of web applications with the best tools and good practices.</p>
+<h2 align="center">Hi there! 👋🏼 My name is Andrea</h2>
 
-<h4>These are the languages ​​and tools that I am learning (or I already know 🤠)...</h4>
+###
 
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" target="_blank" rel="noreferrer" width="40" height="40">
-</p>
+<p align="left">I'm a junior frontend developer with a background in systems administration. I absolutely love coding and am always tinkering with new projects to keep learning and improving. 🚀<br><br>Right now, I’m diving deep into frontend magic, experimenting with new technologies, and having fun building cool stuff! But I’m also curious about the backend world and eager to expand my skills beyond the UI. 🔥</p>
 
-<p>(I only have private repositories, for now... 😉)</p>
+###
+
+<h2 align="center">🛠️ Technologies I’m currently using</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AndreaFH/AndreaFH/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
